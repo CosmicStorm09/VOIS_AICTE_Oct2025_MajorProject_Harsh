@@ -28,6 +28,7 @@ This project analyzes Netflix's global content catalog to identify strategic pat
 ✅ Actionable business insights and recommendations
 
 📁 Repository Contents:
+- problem_statement.docx - Explains the detail of the project
 - netflix_analysis.py - Complete data analysis script
 - netflix_dataset.csv - Raw dataset (7,789 records)
 - netflix_project.pptx - My presentation for the aforementioned
