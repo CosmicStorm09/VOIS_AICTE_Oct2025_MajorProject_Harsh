@@ -20,6 +20,7 @@ This project analyzes Netflix's global content catalog to identify strategic pat
 • VS Code - Development environment
 
 📈 Key Deliverables:
+
 ✅ Comprehensive exploratory data analysis
 ✅ 5+ professional visualizations (dashboards, trend charts, geographic analysis)
 ✅ Data cleaning and preprocessing workflows
@@ -29,7 +30,7 @@ This project analyzes Netflix's global content catalog to identify strategic pat
 📁 Repository Contents:
 - netflix_analysis.py - Complete data analysis script
 - netflix_dataset.csv - Raw dataset (7,789 records)
-- netflix project ppt - My presentation for the aforementioned
+- netflix_project.pptx - My presentation for the aforementioned
 - visualizations - Generated PNG charts and dashboards
 - README.md - Detailed project documentation
 
