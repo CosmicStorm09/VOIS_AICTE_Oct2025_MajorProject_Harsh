@@ -28,9 +28,9 @@ This project analyzes Netflix's global content catalog to identify strategic pat
 
 📁 Repository Contents:
 - netflix_analysis.py - Complete data analysis script
-- netflix_analysis_with_visualizations.py - Enhanced version with chart generation
-- netflix_data.csv - Raw dataset (7,789 records)
-- visualizations/ - Generated PNG charts and dashboards
+- netflix_dataset.csv - Raw dataset (7,789 records)
+- netflix project ppt - My presentation for the aforementioned
+- visualizations - Generated PNG charts and dashboards
 - README.md - Detailed project documentation
 
 🚀 How to Run:
